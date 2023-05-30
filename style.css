@@ -1,0 +1,91 @@
+body {
+    width: 100vw;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head_logo {
+    height: 66px;
+    width: 112px;
+    margin-left: 121px;
+    margin-top: 21px;
+    border-radius: 0px;
+
+}
+
+.globe_logo {
+    height: 21px;
+    width: 22px;
+    margin-left: 121px;
+    margin-top: 184px;
+    border-radius: 0px;
+
+}
+
+.globe_text {
+    height: 32px;
+    width: 130px;
+    margin-left: 151px;
+    margin-top: 187px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.time_logo {
+    height: 22px;
+    width: 22px;
+    margin-left: 306px;
+    margin-top: 183px;
+    border-radius: 0px;
+
+}
+
+.time_text {
+    height: 32px;
+    width: 130px;
+    margin-left: 338px;
+    margin-top: 187px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.calendar_logo {
+    height: 22px;
+    width: 20px;
+    margin-left: 467px;
+    margin-top: 183px;
+    border-radius: 0px;
+
+}
+
+.calendar_logo {
+    height: 32px;
+    width: 130px;
+    margin-left: 500px;
+    margin-top: 187px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
