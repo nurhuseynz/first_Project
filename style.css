@@ -19,7 +19,6 @@ body {
 .globe_logo {
     height: 21px;
     width: 22px;
-    margin-left: 121px;
     margin-top: 184px;
     border-radius: 0px;
 
@@ -28,7 +27,7 @@ body {
 .globe_text {
     height: 32px;
     width: 130px;
-    margin-left: 151px;
+    margin-left: 8px;
     margin-top: 187px;
     border-radius: nullpx;
     font-family: Roboto;
@@ -43,7 +42,7 @@ body {
 .time_logo {
     height: 22px;
     width: 22px;
-    margin-left: 306px;
+    margin-left: 25px;
     margin-top: 183px;
     border-radius: 0px;
 
@@ -52,7 +51,7 @@ body {
 .time_text {
     height: 32px;
     width: 130px;
-    margin-left: 338px;
+    margin-left: 10px;
     margin-top: 187px;
     border-radius: nullpx;
     font-family: Roboto;
@@ -68,16 +67,16 @@ body {
 .calendar_logo {
     height: 22px;
     width: 20px;
-    margin-left: 467px;
+    margin-left: 19px;
     margin-top: 183px;
     border-radius: 0px;
 
 }
 
-.calendar_logo {
+.calendar_text {
     height: 32px;
     width: 130px;
-    margin-left: 500px;
+    margin-left: 13px;
     margin-top: 187px;
     border-radius: nullpx;
     font-family: Roboto;
@@ -86,6 +85,71 @@ body {
     line-height: 23px;
     letter-spacing: 0em;
     text-align: left;
+
+
+}
+
+.block_1 {
+    margin-left: 122px;
+}
+
+.block_1-h1 {
+    height: 190px;
+    width: 628px;
+    margin-top: 29px;
+    border-radius: nullpx;
+    font-family: Roboto Slab;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 81px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.block_1-p {
+    height: 62px;
+    width: 414px;
+    margin-top: 51px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.flex_container_1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.container_1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.referee_img {
+    height: 376px;
+    width: 305px;
+    margin-left: 140px;
+    margin-right: 245px;
+    margin-top: 223px;
+    border-radius: 0px;
+
+}
+
+
+.container_2 {
+    height: 200.01669311523438px;
+    width: 483.6349182128906px;
+    margin-left: 409.3865966796875px;
+    margin-top: 67.62px;
+    margin-right: 546.98px;
+    border-radius: 5px;
 
 
 }
